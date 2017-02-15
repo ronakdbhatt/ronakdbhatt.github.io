@@ -105,7 +105,7 @@ p.logo strong {
 #carousel .text {
 	position:fixed;
 	top: 25%;
-	left: 20%;
+	left: 18%;
 	z-index: 10;
 }
 .item {
@@ -141,7 +141,7 @@ p.logo strong {
 	background: none repeat scroll 0 0 #5a6574;
 	display: inline-block;
 	color: #fff;
-	max-width: 1200;
+	max-width: 1200px;
   font-size: 3em;
 	font-style: italic;
 	padding: 10px 20px;
