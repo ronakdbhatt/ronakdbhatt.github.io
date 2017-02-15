@@ -104,8 +104,8 @@ p.logo strong {
 }
 #carousel .text {
 	position:fixed;
-	top: 20%;
-	left: 17%;
+	top: 25%;
+	left: 20%;
 	z-index: 10;
 }
 .item {
