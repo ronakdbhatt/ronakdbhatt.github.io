@@ -141,7 +141,7 @@ p.logo strong {
 	background: none repeat scroll 0 0 #5a6574;
 	display: inline-block;
 	color: #fff;
-	max-width: inherit;
+	max-width: 1200;
   font-size: 3em;
 	font-style: italic;
 	padding: 10px 20px;
